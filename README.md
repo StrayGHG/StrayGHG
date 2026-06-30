@@ -2,8 +2,6 @@
   <img src="https://files.catbox.moe/04data.svg" width="100%" />
 </div>
 
-<h1 align="center">ALYX SOLUTIONS</h1>
-
 <p align="center">
   Developing │ Webdesign │ Coding
 </p>
