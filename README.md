@@ -5,7 +5,7 @@
 <h1 align="center">ALYX SOLUTIONS</h1>
 
 <p align="center">
-  Developing│Webdesign│Coding
+  Developing │ Webdesign │ Coding
 </p>
 
 
